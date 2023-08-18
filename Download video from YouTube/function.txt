@@ -1,0 +1,10 @@
+get_lowest_resolution()
+get_highest_resolution()
+get_audio_only()
+get_by_resolution()
+
+1- 144p
+2- 240p
+3- 360p
+4- 480p
+5- 720p
