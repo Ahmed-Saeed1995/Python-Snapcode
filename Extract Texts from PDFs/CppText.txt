@@ -1,0 +1,60 @@
+Contents
+Contents
+ 
+C++ language documentation
+ 
+C++ language reference
+ 
+C++ language reference
+ 
+Welcome back to C++ (Modern C++)
+ 
+Lexical conventions
+ 
+Lexical conventions
+ 
+Tokens and character sets
+ 
+Comments
+ 
+Identifiers
+ 
+Keywords
+ 
+Punctuators
+ 
+Numeric, boolean, and pointer literals
+ 
+String and character literals
+ 
+User-defined literals
+ 
+Basic concepts
+ 
+Basic concepts
+ 
+C++ type system
+ 
+Scope
+ 
+Header files
+ 
+Translation units and linkage
+ 
+main function and command-line arguments
+ 
+Program termination
+ 
+Lvalues and rvalues
+ 
+Temporary objects
+ 
+Alignment
+ 
+Trivial, standard-layout, and POD types
+ 
+Value types
+ 
+Type conversions and type safety
+ 
+Standard conversions
