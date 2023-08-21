@@ -1,0 +1,3 @@
+EncryptedFile.pdf 	 password: 0123456789
+EncryptedFile2		 owner = "Ahmed",user = "0123"
+Encrpted		user_password ="Pass0123456" ,owner_password = "Secret"
